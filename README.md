@@ -2,10 +2,6 @@
 
 Project PORTFOLIO presented no Nanodegree Full Stack Web Developer Program.
 
-## Preview
-
-**[View Live Preview](https://nanodegree.mistermagson.com.br/portfolio/)**
-
 ## Download and Installation
 
 To begin using this template, do one of these:
